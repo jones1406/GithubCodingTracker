@@ -1,10 +1,15 @@
-﻿Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
-Console.WriteLine("Hello, C# World Pluss Pluss!, Lets add more messages");
+﻿
+void MyFirstMethod()
+{
+    // do something
+}
+
+void MySecondMethod()
+{
+    // do something
+}
+
+void MyThirdMethod()
+{
+    // do something
+}
